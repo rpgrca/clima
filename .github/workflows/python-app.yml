@@ -33,4 +33,4 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest --doctest-modules --cov-report=xml --cov-report=html --cov={pronostico,clima,climabuilder} *_test.py
+        pytest --doctest-modules --cov-report=xml --cov-report=html --cov={pronostico,clima,climabuilder} src/*_test.py
