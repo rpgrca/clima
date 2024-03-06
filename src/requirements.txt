@@ -1,6 +1,6 @@
 attrs==23.2.0
 coverage==7.4.3
-ddt==1.7.1
+ddt==1.7.2
 more-itertools==10.2.0
 packaging==23.2
 pluggy==1.4.0
