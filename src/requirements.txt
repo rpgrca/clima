@@ -1,4 +1,4 @@
-attrs==24.1.0
+attrs==24.2.0
 coverage==7.6.0
 ddt==1.7.2
 more-itertools==10.3.0
