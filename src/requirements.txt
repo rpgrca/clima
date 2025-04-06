@@ -1,5 +1,5 @@
 attrs==25.3.0
-coverage==7.7.1
+coverage==7.8.0
 ddt==1.7.2
 more-itertools==10.6.0
 packaging==24.2
