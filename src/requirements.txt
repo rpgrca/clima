@@ -3,7 +3,7 @@ coverage==7.8.0
 ddt==1.7.2
 more-itertools==10.7.0
 packaging==25.0
-pluggy==1.5.0
+pluggy==1.6.0
 py==1.11.0
 pyparsing==3.2.3
 pytest==8.3.5
