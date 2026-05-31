@@ -2,7 +2,7 @@ attrs==26.1.0
 coverage==7.13.5
 ddt==1.7.2
 more-itertools==10.8.0
-packaging==26.0
+packaging==26.2
 pluggy==1.6.0
 py==1.11.0
 pyparsing==3.3.2
